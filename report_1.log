@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.2)  29 DEC 2019 22:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.3.2)  29 DEC 2019 23:02
 entering extended mode
 **./report_1.tex
 (report_1.tex
@@ -1149,48 +1149,58 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 83.
 ("C:\Users\Aron\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (2.9366pt too wide) detected at line 125
+Underfull \hbox (badness 10000) in paragraph at lines 96--98
+[]\OT1/cmr/m/n/10 All the code and ma-te-rial for this re-
+ []
+
+
+Underfull \hbox (badness 6284) in paragraph at lines 96--98
+\OT1/cmr/m/n/10 port is to be found in the github repos-i-tory:
+ []
+
+
+Overfull \hbox (2.9366pt too wide) detected at line 126
 []
  []
 
 [1{C:/Users/Aron/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 167.
+(hyperref)                removing `math shift' on input line 168.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 167.
+(hyperref)                removing `math shift' on input line 168.
 
-<kfold.png, id=123, 2501.345pt x 1376.14125pt>
+<kfold.png, id=120, 2501.345pt x 1376.14125pt>
 File: kfold.png Graphic file (type png)
 <use kfold.png>
-Package pdftex.def Info: kfold.png  used on input line 174.
+Package pdftex.def Info: kfold.png  used on input line 175.
 (pdftex.def)             Requested size: 255.0pt x 140.28896pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 174--175
+Overfull \hbox (9.0pt too wide) in paragraph at lines 175--176
  [][] 
  []
 
 
-Underfull \hbox (badness 7451) in paragraph at lines 175--175
+Underfull \hbox (badness 7451) in paragraph at lines 176--176
 []\OT1/cmr/m/n/9 Figure 1. []Illustration of $\OML/cmm/m/it/9 K$\OT1/cmr/m/n/9 
 -fold cross val-i-da-tion.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--175
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
 \OT1/cmr/m/n/9 Source: https://miro.medium.com/max/6542/1*me-
  []
 
 [2 <./kfold.png>]
-<original_noise.png, id=140, 462.528pt x 346.896pt>
+<original_noise.png, id=137, 462.528pt x 346.896pt>
 File: original_noise.png Graphic file (type png)
 <use original_noise.png>
-Package pdftex.def Info: original_noise.png  used on input line 219.
+Package pdftex.def Info: original_noise.png  used on input line 220.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 219--220
+Overfull \hbox (9.0pt too wide) in paragraph at lines 220--221
  [][] 
  []
 
@@ -1200,39 +1210,39 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<OLS_mse.png, id=150, 462.528pt x 344.0052pt>
+<OLS_mse.png, id=147, 462.528pt x 344.0052pt>
 File: OLS_mse.png Graphic file (type png)
 <use OLS_mse.png>
-Package pdftex.def Info: OLS_mse.png  used on input line 278.
+Package pdftex.def Info: OLS_mse.png  used on input line 279.
 (pdftex.def)             Requested size: 255.0pt x 189.66011pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 278--279
+Overfull \hbox (9.0pt too wide) in paragraph at lines 279--280
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<RIDGE_mse.png, id=151, 462.528pt x 344.0052pt>
+<RIDGE_mse.png, id=148, 462.528pt x 344.0052pt>
 File: RIDGE_mse.png Graphic file (type png)
 <use RIDGE_mse.png>
-Package pdftex.def Info: RIDGE_mse.png  used on input line 286.
+Package pdftex.def Info: RIDGE_mse.png  used on input line 287.
 (pdftex.def)             Requested size: 255.0pt x 189.66011pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 286--287
+Overfull \hbox (9.0pt too wide) in paragraph at lines 287--288
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<LASSO_mse.png, id=152, 462.528pt x 344.0052pt>
+<LASSO_mse.png, id=149, 462.528pt x 344.0052pt>
 File: LASSO_mse.png Graphic file (type png)
 <use LASSO_mse.png>
-Package pdftex.def Info: LASSO_mse.png  used on input line 293.
+Package pdftex.def Info: LASSO_mse.png  used on input line 294.
 (pdftex.def)             Requested size: 255.0pt x 189.66011pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 293--294
+Overfull \hbox (9.0pt too wide) in paragraph at lines 294--295
  [][] 
  []
 
@@ -1242,85 +1252,85 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [3 <./original_noise.png>]
 
 LaTeX Warning: A float is stuck (cannot be placed); try class option [floatfix]
- on input line 305.
+ on input line 306.
 
 
-Overfull \hbox (0.6394pt too wide) in paragraph at lines 307--310
+Overfull \hbox (0.6394pt too wide) in paragraph at lines 308--311
  []\OT1/cmr/m/n/10 https://www.uio.no/studier/emner/matnat/astro/
  []
 
-<OLS_deg0.png, id=169, 462.528pt x 346.896pt>
+<OLS_deg0.png, id=165, 462.528pt x 346.896pt>
 File: OLS_deg0.png Graphic file (type png)
 <use OLS_deg0.png>
-Package pdftex.def Info: OLS_deg0.png  used on input line 315.
+Package pdftex.def Info: OLS_deg0.png  used on input line 316.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 315--316
+Overfull \hbox (9.0pt too wide) in paragraph at lines 316--317
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<OLS_deg1.png, id=170, 462.528pt x 346.896pt>
+<OLS_deg1.png, id=166, 462.528pt x 346.896pt>
 File: OLS_deg1.png Graphic file (type png)
 <use OLS_deg1.png>
-Package pdftex.def Info: OLS_deg1.png  used on input line 322.
+Package pdftex.def Info: OLS_deg1.png  used on input line 323.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 322--323
+Overfull \hbox (9.0pt too wide) in paragraph at lines 323--324
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<OLS_deg2.png, id=171, 462.528pt x 346.896pt>
+<OLS_deg2.png, id=167, 462.528pt x 346.896pt>
 File: OLS_deg2.png Graphic file (type png)
 <use OLS_deg2.png>
-Package pdftex.def Info: OLS_deg2.png  used on input line 329.
+Package pdftex.def Info: OLS_deg2.png  used on input line 330.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 329--330
+Overfull \hbox (9.0pt too wide) in paragraph at lines 330--331
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<OLS_deg3.png, id=172, 462.528pt x 346.896pt>
+<OLS_deg3.png, id=168, 462.528pt x 346.896pt>
 File: OLS_deg3.png Graphic file (type png)
 <use OLS_deg3.png>
-Package pdftex.def Info: OLS_deg3.png  used on input line 336.
+Package pdftex.def Info: OLS_deg3.png  used on input line 337.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 336--337
+Overfull \hbox (9.0pt too wide) in paragraph at lines 337--338
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<OLS_deg4.png, id=173, 462.528pt x 346.896pt>
+<OLS_deg4.png, id=169, 462.528pt x 346.896pt>
 File: OLS_deg4.png Graphic file (type png)
 <use OLS_deg4.png>
-Package pdftex.def Info: OLS_deg4.png  used on input line 343.
+Package pdftex.def Info: OLS_deg4.png  used on input line 344.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 343--344
+Overfull \hbox (9.0pt too wide) in paragraph at lines 344--345
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<OLS_deg5.png, id=174, 462.528pt x 346.896pt>
+<OLS_deg5.png, id=170, 462.528pt x 346.896pt>
 File: OLS_deg5.png Graphic file (type png)
 <use OLS_deg5.png>
-Package pdftex.def Info: OLS_deg5.png  used on input line 350.
+Package pdftex.def Info: OLS_deg5.png  used on input line 351.
 (pdftex.def)             Requested size: 255.0pt x 191.25389pt.
 
-Overfull \hbox (9.0pt too wide) in paragraph at lines 350--351
+Overfull \hbox (9.0pt too wide) in paragraph at lines 351--352
  [][] 
  []
 
@@ -1331,54 +1341,44 @@ No file report_1.bbl.
 [4 <./OLS_mse.png> <./RIDGE_mse.png>] [5 <./LASSO_mse.png> <./OLS_deg0.png>]
 [6 <./OLS_deg1.png> <./OLS_deg2.png>] [7 <./OLS_deg3.png> <./OLS_deg4.png>]
 [8 <./OLS_deg5.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 356.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 357.
  (report_1.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 356.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 356.
-
-
-Package rerunfilecheck Warning: File `report_1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report_1.out':
-(rerunfilecheck)             Before: 906AA511CC72EAEEBEB008727A57F82D;1375
-(rerunfilecheck)             After:  85C966081658890064BDC9666A6880E4;1316.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 357.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 357.
+Package rerunfilecheck Info: File `report_1.out' has not changed.
+(rerunfilecheck)             Checksum: 85C966081658890064BDC9666A6880E4;1316.
  ) 
 Here is how much of TeX's memory you used:
- 32338 strings out of 492942
- 616435 string characters out of 3126540
+ 32336 strings out of 492942
+ 616483 string characters out of 3126540
  862249 words of memory out of 3000000
- 35780 multiletter control sequences out of 15000+200000
+ 35779 multiletter control sequences out of 15000+200000
  545042 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,14n,63p,2422b,807s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{section*.22} has been referenced but does not exi
-st, replaced by a fixed one
-
-<C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmbx10.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmbx12.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Aron/AppData/Local/Pro
-grams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Aron/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users
-/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pf
-b><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
-cm/cmmib10.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cmextra/cmmib9.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Aron/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Aron/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Aron/A
-ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
-Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
-y7.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmsy9.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmti9.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on report_1.pdf (8 pages, 760120 bytes).
+<C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Aron/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Aron/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Aron/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Use
+rs/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.
+pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmmib10.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cmextra/cmmib9.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Aron/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Aron/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Aron
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
+:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+msy7.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmsy9.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmti9.pfb><C:/Users/Aron/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on report_1.pdf (8 pages, 762118 bytes).
 PDF statistics:
- 278 PDF objects out of 1000 (max. 8388607)
- 53 named destinations out of 1000 (max. 500000)
- 244 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 274 PDF objects out of 1000 (max. 8388607)
+ 52 named destinations out of 1000 (max. 500000)
+ 236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
